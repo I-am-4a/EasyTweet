@@ -30,8 +30,8 @@ fType = [('キーファイル','*.key')]
 root = tk.Tk()
 root.withdraw()
 
-consumer_key = "Mc0Kez2hOc0rpDKCm3VvPUxe5"
-consumer_secret = "WuFVHJtfhnLnjbTe8fzH4MtgRLos87STIPNttpSygUwqkuNLYc"
+consumer_key = "Mc*********************e5"
+consumer_secret = "Wu**********************************************Yc"
 
 # ---------------------------------------
 
